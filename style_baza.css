@@ -1,0 +1,146 @@
+*{
+    box-sizing: border-box;
+  }
+
+  body {
+    background: #192127!important;
+    height: auto;
+    color:white;
+}
+  .row1:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.row1 { display: inline-block; }
+* html .row1 { height: 1%; }
+.row1 { display: block; }
+
+  #header{
+    
+    height: auto;
+    margin-bottom: 10px;
+}
+
+  #content{
+    width: 78%;
+    float: left;
+    padding-left: 10px;
+  }
+  .inner-content{
+    color: white;
+  }
+  #sidebar{   
+    width: 22%;
+    float: left;
+  }
+  .inner-sidebar{
+    background-color: #1E272E;
+    text-decoration: none;
+    margin:10px;
+    border: 1px solid green;
+  }
+
+  .baza_menu a{
+    color:white;
+    text-decoration:none;
+  }
+  .baza_menu li a:hover {
+    color: rgba(132, 149, 185, 0.5);
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -webkit-font-smoothing: antialiased;
+    text-decoration:none;
+}
+  .baza_menu li{
+    list-style: none;
+  }
+  .baza_menu{
+    padding:10px;
+  }
+  
+  nav {
+    width: 100%;
+    top: 0;
+    right: 0;
+    letter-spacing: .2em;
+    line-height: 1;
+
+    font-size:14px;
+    background-color:#1E272E;
+    
+    
+}
+nav ul {
+    text-align: right;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    padding-bottom: 25px;
+}
+nav li {
+    padding: 0 10px;
+    display: inline-block;
+
+}
+nav li:last-child {
+    border-right: none;
+}
+nav li a {
+    padding: 10px;
+    color: white;
+    display: block;
+    font-weight: 400!important;
+    text-decoration: none!important;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    background-color: transparent!important;
+    -webkit-font-smoothing: antialiased;
+}
+nav li a:hover {
+    color: rgba(132, 149, 185, 0.5);
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -webkit-font-smoothing: antialiased;
+}
+.logo {
+    width: 200px;
+    display: block;
+    float: left;
+    font-size: 1.8em;
+    font-weight: 800;
+    text-decoration: none!important;
+    color: #FFFFFF;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+.logo a {
+    font-size: 1.8em;
+    font-weight: 800;
+    text-decoration: none!important;
+    color: #FFFFFF;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+.footer{
+    background: #192127;
+    color:white;
+}
+.copyright p{
+    border-top:1px solid rgba(255,255,255,.1);
+} 

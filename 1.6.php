@@ -16,8 +16,9 @@
                 обращается в Банк по процедуре чарджбэк с формулировкой “мошенничество”. Однако это неправильно.
                 <br/>
                 <br/>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/1-8.png" alt="мошенничество">
-                <br/>
+                <div class="img" style="text-align:center;">
+                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/1-8.png" alt="мошенничество" width="70%">
+                </div>
                 <br/>
                 Разберем понятие мошенничества, исходя из закона Российской Федерации:
                 <br/>

@@ -11,11 +11,16 @@
                 Заявление на чарджбэк
             </h2>
 
-            <b class="container proba">
+            <div class="container proba">
                 Что такое чарджбэк, кто его участники, по каким причинам возможно вернуть деньги, и как выглядит
                 алгоритм процедуры чарджбэк, мы писали в предыдущих статьях. Сейчас мы с Вами разберем структуру
                 заявления на чарджбэк.
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/1-6.png" alt="заявление">
+                <br/>
+                <br/>
+                <div class="img" style="text-align:center;">
+                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/1-6.png" alt="заявление">
+                </div>
+
                 <br/>
                 <br/>
 
@@ -40,7 +45,9 @@
                     <li>Дату подачи;</li>
                     <li>Подпись.</li>
                 </ol>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/2-6.png" alt="заявление">
+                <br/>
+                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/2-6.png" alt="заявление"
+                     width="100%">
                 <br/>
                 <br/>
                 Форма заявления стандартная. Справа в верхнем углу листа указываются реквизиты адресата. В данном
@@ -93,6 +100,8 @@
                 <br/>
                 Чтобы банковский специалист не потерял часть заявления, пронумеруйте все страницы снизу. После даты
                 укажите, что прикрепляете доказательную базу в Приложении.
+                <br/>
+                <br/>
 
                 <h3 style="color:green;-webkit-text-stroke: 0.2px black">
                     Диспутные формы заявлений на чарджбэк
@@ -106,41 +115,108 @@
                 2) Заявление в свободной форме (наша рекомендация).
                 <br/>
                 <br/>
-                <b>Диспутная форма ВТБ24</b>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D0%B2%D1%82%D0%B11.jpg"
-                     alt="диспут_втб_1">
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D0%B2%D1%82%D0%B12.jpg"
-                     alt="диспут_втб_1">
+
+                <p class="zagolovok_h2">
+                    <b>Диспутная форма ВТБ24:</b>
+                </p>
+                <div class="rekvizit" style="text-align:center;">
+                    <div class="container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D0%B2%D1%82%D0%B11.jpg"
+                                         alt="диспут_втб_1" width="100%">
+                                </div>
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D0%B2%D1%82%D0%B12.jpg"
+                                         alt="диспут_втб_1" width="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <br/>
+
+                <p class="zagolovok_h2">
+                    <b>Диспутная форма Сбербанка:</b>
+                </p>
+                <div class="rekvizit" style="text-align:center;">
+                    <div class="container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B11-725x1024.gif"
+                                         alt="диспут_сбер_1" width="100%">
+                                    <br/>
+                                    <br/>
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B13-725x1024.gif"
+                                         alt="диспут_сбер_3" width="100%">
+                                </div>
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B12-725x1024.gif"
+                                         alt="диспут_сбер_2" width="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <br/>
-                <b>Диспутная форма Сбербанка</b>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B11-725x1024.gif"
-                     alt="диспут_сбер_1">
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B12-725x1024.gif"
-                     alt="диспут_сбер_2">
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/%D1%81%D0%B13-725x1024.gif"
-                     alt="диспут_сбер_3">
+
+                <p class="zagolovok_h2">
+                    <b>Диспутная форма Альфа-банка:</b>
+                </p>
+                <div class="rekvizit" style="text-align:center;">
+                    <div class="container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/alfa1-724x1024.jpg"
+                                         alt="диспут_альфа_1" width="100%">
+                                </div>
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/alfa2-724x1024.jpg"
+                                         alt="диспут_альфа_2" width="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <br/>
-                <br/>
-                <b>Диспутная форма Альфа-банка</b>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/alfa1-724x1024.jpg" alt="диспут_альфа_1">
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/alfa2-724x1024.jpg" alt="диспут_альфа_2">
-                <br/>
-                <br/>
-                <b>Диспутная форма Тинькофф</b>
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/tf1-724x1024.jpg" alt="диспут_тинькофф_1">
-                <img src="https://charge-backer.ru/wp-content/uploads/2020/01/tf2-724x1024.jpg" alt="диспут_тинькофф_2">
-                <br/>
+
+
+                <p class="zagolovok_h2">
+                    <b>Диспутная форма Тинькофф:</b>
+                </p>
+                <div class="rekvizit" style="text-align:center;">
+                    <div class="container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/tf1-724x1024.jpg"
+                                         alt="диспут_тинькофф_1" width="100%">
+                                </div>
+                                <div class="col">
+                                    <img src="https://charge-backer.ru/wp-content/uploads/2020/01/tf2-724x1024.jpg"
+                                         alt="диспут_тинькофф_2" width="100%">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <br/>
 
                 <h3 style="color:green;-webkit-text-stroke: 0.2px black">
-                    Особенности заявления chargeback
+                    Особенности заявления Сhargeback
                 </h3>
                 1) Платежные системы требуют перевод заявлений на английский язык, либо сопровождать заявление
                 английским языком;
+                <br/>
                 2) Заявление без эмоций;
+                <br/>
                 3) Краткость сыграет Вам на руку;
+                <br/>
                 4) Оформляйте свое заявление по принятым стандартам;
+                <br/>
                 5) Ссылайтесь на правила платежных систем.
                 <br/>
                 <br/>
@@ -148,9 +224,9 @@
                     незамедлительно обращайтесь к специалистам по чарджбэку.</b>
                 <br/>
                 <br/>
+            </div>
         </div>
     </div>
-</div>
 </div>
 
 <? include_once 'footer.php' ?>

@@ -1,0 +1,340 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Slab:wght@400;500;531;600;700;800;900&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.navbar-brand{
+    Color:white!important;
+    font-size: 25px!important;
+}
+body {
+    background: #1E272E!important;
+    height: auto;
+}
+
+
+
+nav {
+    position: fixed;
+    z-index: 0;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1;
+    letter-spacing: .2em;
+    line-height: 1;
+    padding: 30px;
+    font-size:14px;
+    
+    
+}
+nav ul {
+    text-align: right;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    padding: 0 10px;
+    display: inline-block;
+
+}
+nav li:last-child {
+    border-right: none;
+}
+nav li a {
+    padding: 10px;
+    color: white;
+    display: block;
+    font-weight: 400!important;
+    text-decoration: none!important;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    background-color: transparent!important;
+    -webkit-font-smoothing: antialiased;
+}
+nav li a:hover {
+    color: rgba(132, 149, 185, 0.5);
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -webkit-font-smoothing: antialiased;
+}
+.logo {
+    width: 200px;
+    display: block;
+    float: left;
+    font-size: 1.8em;
+    font-weight: 800;
+    text-decoration: none!important;
+    color: #FFFFFF;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+.logo a {
+    font-size: 1.8em;
+    font-weight: 800;
+    text-decoration: none!important;
+    color: #FFFFFF;
+    font-family:'Raleway', sans-serif, Helvetica, Verdana;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 5px;
+    
+}
+.clears {
+    clear: both;
+}
+.maintext {
+margin: 0;
+}
+
+
+.video-container {
+    z-index: -100;
+    width:100%;
+    height: 100%;
+    top:0;
+    left:0; 
+
+}
+    
+#video-bg{
+    width:100%;
+    z-index : 2;
+    top : 0;
+    left : 0;
+    opacity : 0.5;     
+}
+.videotext{
+    position: absolute;
+    color:white;
+    z-index: 1;
+    margin:260px 50px auto 240px;
+    text-align: center;
+}
+.center {
+    margin: 0;
+    
+    top: 60%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+   }
+
+.block2{
+    background: #1E272E!important;
+}
+.block2_1{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+.borderline{
+    border-style: solid; 
+    border-color: transparent green transparent transparent;
+    padding-right: 65px;
+padding-left: 35px;
+}
+.block2_row_h4{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.block2_row_p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 148%;
+    color: #FFFFFF;
+}
+
+
+.block3{
+    background-color:#1edf62;
+    height: auto;
+}
+.zagolovok{
+    color:white;
+     text-align: center;
+     margin:40px;
+     font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+
+ 
+.foo2 {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dot {
+    margin:15px;
+    height: 350px;
+    width: 150px;
+    color:white;
+    display: inline-block;
+    border: 1px solid #1edf62;
+  }
+
+
+.block3_p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 148%;
+    color:black;
+    
+}
+.block333{
+    padding: 20px;
+    background-color: #192127;
+}
+
+.block_novozvrat{
+    padding-top: 40px;
+    background-color: #192127;
+    padding-bottom: 20px;;
+    margin-bottom: -50px;
+}
+.p_mal{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 148%;
+    color: #FFFFFF;
+}
+.block3_row_p{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 148%;
+    color: black;
+}
+.block4_h1{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}
+.block4_h1_1{
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 32px;
+    text-transform: uppercase;
+    color: white;display:inline;
+    padding: 5px;
+}
+.block4_row_h4{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    display:inline;
+}
+@media (max-width: 767.98px) { 
+    .videotext{
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) ;
+        width: 50%;
+        margin-top: 18%;
+        position: relative;
+        margin-bottom: 0;
+        
+        }
+        .videotext h2{
+            font-size:10px;
+        }
+        .videotext h4{
+            font-size: 10px;
+        }
+        .block2{
+            margin-top: -80px;
+        }
+       
+}
+
+@media (max-width: 991.98px) {
+    .videotext{
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) ;
+        margin-top: -20%;
+        margin-bottom: 0;
+        position: relative;
+
+        width: 50%;
+        }
+        .videotext h2{
+            font-size:15px;
+        }
+        .videotext h4{
+            font-size: 15px;
+        }
+       
+}
+@media (max-width: 1024.98px) {
+    .videotext{
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) ;
+        margin-top: -18%;
+        margin-bottom: 0;
+        position: relative;
+        width: 50%;
+        }
+        .videotext h2{
+            font-size:20px;
+        }
+        .videotext h4{
+            font-size: 20px;
+        }
+       
+}
+
+.footer{
+    background-color: #1E272E!important;
+    color:white;
+}
+.copyright p{
+    border-top:1px solid rgba(255,255,255,.1);
+} 
+

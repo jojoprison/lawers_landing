@@ -52,10 +52,10 @@
                 
                 
                 <div class="videotext center">
-                  <!--<h1>ПОПАЛСЯ БРОКЕР МОШЕННИК?</h1></br>-->
-                  <h4>ВЫВОДИМ ВАШИ ДЕНЕЖНЫЕ СРЕДСТВА</br>ДАЖЕ С ОФШОРНЫХ ЗОН</h4>
+                  <!--<h1>ПОПАЛСЯ БРОКЕР МОШЕННИК?</h1><br/>-->
+                  <h4>ВЫВОДИМ ВАШИ ДЕНЕЖНЫЕ СРЕДСТВА<br/>ДАЖЕ С ОФШОРНЫХ ЗОН</h4>
                   <h4>по регламентам международного формата </h4>
-                  <img class="baton" src="visa.png" width="40%" height="70%"></br>            
+                  <img class="baton" src="visa.png" width="40%" height="70%"><br/>
                   <button class="btn btn-success" style="margin:10px"><h4>ОБРАТИТЬСЯ</h4></button>
                 </div>
               </div> 
@@ -69,35 +69,35 @@
       <div class="container" style="margin-top:60px">
         <h1 class="block2_1">СПЕЦИАЛИЗАЦИЯ - ГАРАНТИЯ ЭКПЕРТНОСТИ</h1>
  <!--    <p>Наша Команда специализируется на одной миссии - возврат денежных средств от 
-          недобросовестных компаний, прикрывающихся брокерскими.</br> Мы проводим комплекс мер по 
+          недобросовестных компаний, прикрывающихся брокерскими.<br/> Мы проводим комплекс мер по
           урегулированию спорных ситуациях и готовы вам помочь.</p>*/
-    <hr style="border-color:green;border-style:solid" >--></br>
+    <hr style="border-color:green;border-style:solid" >--><br/>
         <div class="row">
         <div class="col-sm borderline">
-        <h4 class="block2_row_h4">ПРИЗНАКИ ОБМАНА</h4></br><p class="block2_row_p">
-        1.Потеряли деньги в результате "работы" аналитика?</br>
-        2. Для вывода от Вас требуют пополнения?</br>
-        3. «Брокер» пытается отговорить Вас от вывода своих денег?</br>
-        5. Чувствуете себя обманутыми?</br>
-        6. Под любым предлогом требуют от Вас пополнить вновь Ваш счет?</br></p>
+        <h4 class="block2_row_h4">ПРИЗНАКИ ОБМАНА</h4><br/><p class="block2_row_p">
+        1.Потеряли деньги в результате "работы" аналитика?<br/>
+        2. Для вывода от Вас требуют пополнения?<br/>
+        3. «Брокер» пытается отговорить Вас от вывода своих денег?<br/>
+        5. Чувствуете себя обманутыми?<br/>
+        6. Под любым предлогом требуют от Вас пополнить вновь Ваш счет?<br/></p>
         </div>
         <div class="col-sm borderline">
-        <h4 class="block2_row_h4">СПОСОБЫ ПЕРЕВОДА</h4></br><p class="block2_row_p">
-        1. На сайте брокера</br>
-2. Банковской картой VISA, MasterCard, МИР</br>
-3. По другим способам переводов - индивидуальный подход</br></p>
+        <h4 class="block2_row_h4">СПОСОБЫ ПЕРЕВОДА</h4><br/><p class="block2_row_p">
+        1. На сайте брокера<br/>
+2. Банковской картой VISA, MasterCard, МИР<br/>
+3. По другим способам переводов - индивидуальный подход<br/></p>
     
         </div>
         <div class="col-sm" >
-        <h4 class="block2_row_h4">СРОКИ И СУММЫ  </h4> </br> <p class="block2_row_p">
-        1.  MasterCard, VISA - до 540 дней</br>
-2.  МИР - до 180 дней</br>
-3. От 5 000 рублей сумма ущерба</br></p>
+        <h4 class="block2_row_h4">СРОКИ И СУММЫ  </h4> <br/> <p class="block2_row_p">
+        1.  MasterCard, VISA - до 540 дней<br/>
+2.  МИР - до 180 дней<br/>
+3. От 5 000 рублей сумма ущерба<br/></p>
 </div>
       </div>
       </div>
     </div>
-  </br></br><br></div>
+  <br/><br/><br></div>
 
 
 
@@ -110,7 +110,7 @@
     <div class="container">
       <div class="row" style=" text-align: center;">
         <span class="col-sm dot"><img src="1.png" alt="" width="40%" style="padding: 17px;">
-        <p class="p_mal">1. Правила платёжной системы «МИР»</br></br>
+        <p class="p_mal">1. Правила платёжной системы «МИР»<br/><br/>
           Часто используемый нами код, для
      возврата денежных средств:
      Диспутный код 4555 "Приобретенные
@@ -120,7 +120,7 @@
         <span class="col-sm dot"><img src="2.png" alt="" width="40%" style="padding: 15px;">
           <p class="p_mal">2. Visa Core Rules and
             Visa Product and Service Rules
-            от 13 April 2019</br></br>
+            от 13 April 2019<br/><br/>
             Часто используемый нами код, для
           возврата денежных средств:
           Dispute Condition 13.5: Misrepresentation
@@ -130,7 +130,7 @@
           Supporting Documentation/Certification</p>
         </span>
         <span class="col-sm dot"><img src="3.png" alt="" width="27%" style="padding-top: -30px;">
-          <p class="p_mal">3. Chargeback Guide от 13 December 2018</br></br>
+          <p class="p_mal">3. Chargeback Guide от 13 December 2018<br/><br/>
             Часто используемый нами код, для
             возврата денежных средств:
             Interregional Message Reason Code
@@ -138,37 +138,37 @@
         </span>
       </div>
 </div>
-</br></br>
+<br/><br/>
 </div>
 
 <br>
     <div class="block4" >
-    </br></br>
+    <br/><br/>
     <div class="container">
-      <h1 class="block4_h1" style="font-size: 30px;">ЧТО ВХОДИТ В УСЛУГУ ЧАРДЖБЭКА?</h1></br><hr style="border-color:green;border-style:solid" ></br>
+      <h1 class="block4_h1" style="font-size: 30px;">ЧТО ВХОДИТ В УСЛУГУ ЧАРДЖБЭКА?</h1><br/><hr style="border-color:green;border-style:solid" ><br/>
     <h1 class="block4_h1_1">1.</h1>
-    <p class="block4_row_h4">Изучаем Вашу ситуацию, договорные отношения и собираем доказательную базу</p></br>
+    <p class="block4_row_h4">Изучаем Вашу ситуацию, договорные отношения и собираем доказательную базу</p><br/>
     <h1 class="block4_h1_1">2.</h1>
-    <p class="block4_row_h4">Подготавливаем запросы/документы для расторжения договорных отношений</p></br>
+    <p class="block4_row_h4">Подготавливаем запросы/документы для расторжения договорных отношений</p><br/>
     <h1 class="block4_h1_1">3.</h1>
-    <p class="block4_row_h4">Индивидуально под Вашу ситуацию составляем заявление в Банк на оспаривание транзакций (чарджбэк от брокера). В случае неправомерных действий Банка, обращаемся в ЦБ РФ, пишем повторные и дополнительные заявления</p></br>
+    <p class="block4_row_h4">Индивидуально под Вашу ситуацию составляем заявление в Банк на оспаривание транзакций (чарджбэк от брокера). В случае неправомерных действий Банка, обращаемся в ЦБ РФ, пишем повторные и дополнительные заявления</p><br/>
     <h1 class="block4_h1_1">4.</h1>
-    <p class="block4_row_h4">Составляем дополнительные заявления по запросу, также подготавливаем повторное требование в случае отказа Банка. </p></br>
+    <p class="block4_row_h4">Составляем дополнительные заявления по запросу, также подготавливаем повторное требование в случае отказа Банка. </p><br/>
     <h1 class="block4_h1_1">5.</h1>
     <p class="block4_row_h4">Составляем жалобу в уполномоченные органы в сфере контроля и надзора брокерской деятельности:
       Финансовому регулятору
       Финансовому омбудсмену 
-      </p></br>
+      </p><br/>
     <h1 class="block4_h1_1">6.</h1>
-    <p class="block4_row_h4">В случае отказа возврата денежных средств, составляем жалобы, протесты с целью проведения повторной проверки</p></br>
-  </br></br>  
+    <p class="block4_row_h4">В случае отказа возврата денежных средств, составляем жалобы, протесты с целью проведения повторной проверки</p><br/>
+  <br/><br/>
   </div>
   </div>
 
 
      <!--<div class="block3">
       <div class="container">
-      </br>
+      <br/>
         <div class="row">
           
           <div class="col-sm">
@@ -191,13 +191,13 @@
             <p>Работаем по нотариальной доверенности</p>
           </div>
         </div>
-      </br>
+      <br/>
       </div>
     </div>
   -->
     <div class="block_novozvrat">
       <div class="container">
-        <h1 class="block4_h1" style="font-size: 30px;">Участники процедуры возврата средств</h1></br><hr style="border-color:green;border-style:solid" >
+        <h1 class="block4_h1" style="font-size: 30px;">Участники процедуры возврата средств</h1><br/><hr style="border-color:green;border-style:solid" >
          <div class="container"><img src="cicle.png" alt="" 
           style="width: 72%; display: block; margin-left: auto; margin-right: auto; " >
          </div>

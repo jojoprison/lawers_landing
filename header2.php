@@ -15,7 +15,7 @@
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="baza.css">
+    <link rel="stylesheet" href="baza1.css">
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
 </head>
@@ -40,16 +40,16 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header">
-                <h3 class="center">Полная </br>база знаний</h3>
+                <h3 class="center" style="color:white!important;">Полная </br>база знаний</h3>     
             </div>
-
+            <hr>
             <ul class="list-unstyled components">
                 <p class="center">Выберите подпункт</p>
 
-                <li class="active">
+                <li>
                     <a href="#1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">1. Чарджбэк</a>
                     <ul class="collapse list-unstyled" id="1">
-                        <li><a href="http://expertpravo.ru/baza_znaniy.php">1.1 ЧТО ТАКОЕ ЧАРДЖБЭК?</a></li>
+                        <li><a href="http://expertpravo.ru/baza_znaniy.php">1.1 Что такое чарджбэк?</a></li>
                         <li><a href="1.2.php">1.2 Коды чарджбэк</a></li>
                         <li><a href="1.3.php">1.3 Как сделать чарджбэк?</a></li>
                         <li><a href="1.4.php">1.4 Заявление на чарджбэк</a></li>
@@ -132,16 +132,16 @@
 
         <div class="container-fluid">
 
-        <button type="button" id="sidebarCollapse" class="btn btn-info">
+        <button type="button" id="sidebarCollapse" class="btn" style="backgrod-color:#337AB7;border:2px solid #337AB7;">
             <i class="fas fa-align-left"></i>
             <span>Меню</span>
         </button>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
                        
-                <div class="collapse navbar-collapse text-nav" id="navbarTogglerDemo02">
+                <div class="collapse navbar-collapse text-nav" id="navbarNav">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="margin-right:3%;  font-family: 'Roboto Slab', serif;">
                     <li class="nav-item ">
                     <a class="nav-link" href="index.html">Главная<span class="sr-only">(current)</span></a>
@@ -157,4 +157,5 @@
                     </li>
                 </ul>
                 </div>
+                
             </nav>

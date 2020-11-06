@@ -17,13 +17,13 @@
             <li><a href="1.12.php">1.12 Как оформить чарджбэк?</a></li>
             <hr>
             <li><a href="#">2. ПЛАТЕЖНЫЕ СИСТЕМЫ</a></li>
-            <li><a href="#">2.1 Диспут МИР</a></li>
-            <li><a href="#">2.2 Чарджбэк VISA</a></li>
-            <li><a href="#">2.3 Чарджбэк MasterCard</a></li>
-            <li><a href="#">2.4 PayPal</a></li>
-            <li><a href="#">2.5 Яндекс Деньги</a></li>
-            <li><a href="#">2.6 Чарджбэк и QIWI</a></li>
-            <li><a href="#">2.7 Электр. кошельки и др.</a></li>
+            <li><a href="2.1.php">2.1 Диспут МИР</a></li>
+            <li><a href="2.2.php">2.2 Чарджбэк VISA</a></li>
+            <li><a href="2.3.php">2.3 Чарджбэк MasterCard</a></li>
+            <li><a href="2.4.php">2.4 PayPal</a></li>
+            <li><a href="2.5.php">2.5 Яндекс Деньги</a></li>
+            <li><a href="2.6.php">2.6 Чарджбэк и QIWI</a></li>
+            <li><a href="2.7.php">2.7 Электр. кошельки и др.</a></li>
             <hr>
             <li><a href="#">3. БАНКИ</a></li>
             <li><a href="#">3.1 Чарджбэк и Банк Онлайн</a></li>

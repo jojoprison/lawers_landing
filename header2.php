@@ -49,18 +49,18 @@
                 <li>
                     <a href="#1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">1. Чарджбэк</a>
                     <ul class="collapse list-unstyled" id="1">
-                        <li><a href="http://expertpravo.ru/baza_znaniy.php">1.1 Что такое чарджбэк?</a></li>
-                        <li><a href="1.2.php">1.2 Коды чарджбэк</a></li>
-                        <li><a href="1.3.php">1.3 Как сделать чарджбэк?</a></li>
-                        <li><a href="1.4.php">1.4 Заявление на чарджбэк</a></li>
-                        <li><a href="1.5.php">1.5 Вероятность успеха.</a></li>
-                        <li><a href="1.6.php">1.6 Чарджбэк по мошенничеству</a></li>
-                        <li><a href="1.7.php">1.7 Стоимость чарджбэк</a></li>
-                        <li><a href="1.8.php">1.8 Как выбрать Компанию на чарджбэк?</a></li>
-                        <li><a href="1.9.php">1.9 Чарджбэк отзывы</a></li>
-                        <li><a href="1.10.php">1.10 Чарджбэк без предоплаты</a></li>
-                        <li><a href="1.11.php">1.11 Чарджбэк с Алиэкспресс</a></li>
-                        <li><a href="1.12.php">1.12 Как оформить чарджбэк?</a></li>
+                        <li><a href="baza.php">1.1 Что такое чарджбэк?</a></li>
+                        <li><a href="1.2_chargeback_codes.php">1.2 Коды чарджбэк</a></li>
+                        <li><a href="1.3_how_make_chargeback.php">1.3 Как сделать чарджбэк?</a></li>
+                        <li><a href="1.4_chargeback_statement.php">1.4 Заявление на чарджбэк</a></li>
+                        <li><a href="1.5_probability_of_success.php">1.5 Вероятность успеха.</a></li>
+                        <li><a href="1.6_fraud_chargeback.php">1.6 Чарджбэк по мошенничеству</a></li>
+                        <li><a href="1.7_cost_chargeback.php">1.7 Стоимость чарджбэк</a></li>
+                        <li><a href="1.8_chargeback_selection.php">1.8 Как выбрать Компанию на чарджбэк?</a></li>
+                        <li><a href="1.9_chargeback_reviews.php">1.9 Чарджбэк отзывы</a></li>
+                        <li><a href="1.10_chargeback_without_prepayment.php">1.10 Чарджбэк без предоплаты</a></li>
+                        <li><a href="1.11_chargeback_Aliexpress.php">1.11 Чарджбэк с Алиэкспресс</a></li>
+                        <li><a href="1.12_issue_chargeback.php">1.12 Как оформить чарджбэк?</a></li>
                     </ul>
                 </li>
                 
@@ -68,13 +68,13 @@
                 <li>
                     <a href="#2" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">2. Платежные системы</a>
                     <ul class="collapse list-unstyled" id="2">
-                        <li><a href="2.1.php">2.1 Диспут МИР</a></li>
-                        <li><a href="2.2.php">2.2 Чарджбэк VISA</a></li>
-                        <li><a href="2.3.php">2.3 Чарджбэк MasterCard</a></li>
-                        <li><a href="2.4.php">2.4 PayPal</a></li>
-                        <li><a href="2.5.php">2.5 Яндекс Деньги</a></li>
-                        <li><a href="2.6.php">2.6 Чарджбэк и QIWI</a></li>
-                        <li><a href="2.7.php">2.7 Электр. кошельки и др.</a></li>
+                        <li><a href="2.1_dispute_mir.php">2.1 Диспут МИР</a></li>
+                        <li><a href="2.2_chargeback_visa.php">2.2 Чарджбэк VISA</a></li>
+                        <li><a href="2.3_chargeback_mastercard.php">2.3 Чарджбэк MasterCard</a></li>
+                        <li><a href="2.4_chargeback_paypal.php">2.4 PayPal</a></li>
+                        <li><a href="2.5_chargeback_yandex_money.php">2.5 Яндекс Деньги</a></li>
+                        <li><a href="2.6_chargeback_qiwi.php">2.6 Чарджбэк и QIWI</a></li>
+                        <li><a href="2.7_chargeback_online_wallet.php">2.7 Электр. кошельки и др.</a></li>
                     </ul>
                 </li>
 
@@ -82,46 +82,43 @@
                 <li>
                     <a href="#3" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">3. Банки</a>
                     <ul class="collapse list-unstyled" id="3">
-                        <li><a href="#">3.1 Чарджбэк и Банк Онлайн</a></li>
-                        <li><a href="#">3.2 Чарджбэк Сбербанк</a></li>
-                        <li><a href="#">3.3 Чарджбэк ВТБ</a></li>
-                        <li><a href="#">3.4 Чарджбэк Альфа-банк</a></li>
-                        <li><a href="#">3.5 Чарджбэк Кукуруза</a></li>
-                        <li><a href="#">3.6 Чарджбэк Тинькофф</a></li>
+                        <li><a href="3.1_chargeback_bank_online.php">3.1 Чарджбэк и Банк Онлайн</a></li>
+                        <li><a href="3.1_chargeback_sberbank.php">3.2 Чарджбэк Сбербанк</a></li>
+                        <li><a href="3.1_chargeback_vtb.php">3.3 Чарджбэк ВТБ</a></li>
+                        <li><a href="3.1_chargeback_alphabank.php">3.4 Чарджбэк Альфа-банк</a></li>
+                        <li><a href="3.1_chargeback_kukuruza.php">3.5 Чарджбэк Кукуруза</a></li>
+                        <li><a href="3.1_chargeback_tinkoff.php">3.6 Чарджбэк Тинькофф</a></li>
                     </ul>
                 </li>
 
                 <li>
                     <a href="#4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">4. Брокеры</a>
                     <ul class="collapse list-unstyled" id="4">
-                        <li><a href="4.1.php">4.1 Кто такие брокеры мошенники</a></li>
-                        <li><a href="4.2.php">4.2 Вернуть деньги из бинарных опционов</a></li>
-                        <li><a href="4.3.php">4.3 Обман брокеров</a></li>
-                        <li><a href="4.4.php">4.4 Сайты близнецы</a></li>
-                        <li><a href="4.5.php">4.5 Брокеры</a></li>
-                        <li><a href="4.6.php">4.6 10 уловок Форекс Брокеров</a></li>
-                        <li><a href="4.7.php">4.7 Зеркальные транзакции</a></li>
+                        <li><a href="4.1_brokers_scammers_.php">4.1 Кто такие брокеры мошенники</a></li>
+                        <li><a href="4.2_chargeback_binary_options.php">4.2 Вернуть деньги из бинарных опционов</a></li>
+                        <li><a href="4.3_broker_cheating.php">4.3 Обман брокеров</a></li>
+                        <li><a href="4.4_twin_sites.php">4.4 Сайты близнецы</a></li>
+                        <li><a href="4.5_brokers.php">4.5 Брокеры</a></li>
+                        <li><a href="4.6_tricks_of_ForexBrokers.php">4.6 10 уловок Форекс Брокеров</a></li>
+                        <li><a href="4.7__mirror_transactions.php">4.7 Зеркальные транзакции</a></li>
                     </ul>
                 </li>
 
                 <li>
                     <a href="#5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">5. Прочее</a>
                     <ul class="collapse list-unstyled" id="5">
-                        <li><a href="#">5.1 Mytriumf – ########</a></li>
-                        <li><a href="#">5.2 Частые вопросы</a></li>
-                        <li><a href="#">5.3 Кто такая ###########</a></li>
-                        <li><a href="#">5.4 Как не попасть дважды</a></li>
-                        <li><a href="5.5.php">5.5 AnyDesk(АниДеск) – что это такое?</a></li>
-                        <li><a href="#">5.6 Мошенничество в интернете</a></li>
-                        <li><a href="#">5.7 ##### отзывы</a></li>
-                        <li><a href="#">5.8 Обман пенсионеров</a></li>
-                        <li><a href="#">5.9 Заработок в интернете</a></li>
-                        <li><a href="#">5.10 Банкротство физ. лиц</a></li>
-                        <li><a href="#">5.11 Возврат денег за авиабилет</a></li>
-                        <li><a href="5.12.php">5.12 Что такое МСС код? Всё о МСС!</a></li>
-                        <li><a href="#">5.13 Как вернуть деньги за путевку</a></li>
-                        <li><a href="#">5.14 Потерял инвестиции</a></li>
-                        <li><a href="#">5.15 Словарь терминов</a></li>
+                        <li><a href="5.1_FAQ">5.1 Частые вопросы</a></li>
+                        <li><a href="5.2__how_not_twice.php">5.2 Как не попасть дважды</a></li>
+                        <li><a href="5.3_anydesk.php">5.3 AnyDesk(АниДеск) – что это такое?</a></li>
+                        <li><a href="5.4_Internet_fraud.php">5.4 Мошенничество в интернете</a></li>
+                        <li><a href="5.5_Cheating_pensioners.php">5.5 Обман пенсионеров</a></li>
+                        <li><a href="5.6_Earnings_in_Internet.php">5.6 Заработок в интернете</a></li>
+                        <li><a href="5.7_Individual_bankruptcy.php">5.7 Банкротство физ. лиц</a></li>
+                        <li><a href="5.8_Aviation_ticket_refund.php">5.8 Возврат денег за авиабилет</a></li>
+                        <li><a href="5.9_mss_code.php">5.9 Что такое МСС код? Всё о МСС!</a></li>
+                        <li><a href="5.10_chargeback_trip.php">5.10 Как вернуть деньги за путевку</a></li>
+                        <li><a href="5.11_lost_investment.php">5.11 Потерял инвестиции</a></li>
+                        <li><a href="5.12_Glossary_of_terms.php">5.12 Словарь терминов</a></li>
                     </ul>
                 </li>       
         </nav>

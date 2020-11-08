@@ -3,6 +3,7 @@
 <h2 class="zagolovok_h2 center">
     Чарджбэк – способ вернуть деньги. Полная база знаний.
 </h2>
+<br/>
 
 <div class="container proba">
     Добрый день. Мы написали самую полную статью по процедуре chargeback.

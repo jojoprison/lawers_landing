@@ -123,13 +123,13 @@
                     <div class="item active">
                         <br/>
                         <div class="bannerImage" style="float:left; margin-right: 30px;"><a
-                                    href="1.9_chargeback_reviews.php"><img
+                                    href="1.10_chargeback_reviews.php"><img
                                         class="lazy loaded"
                                         src="https://charge-backer.ru/wp-content/uploads/2020/01/6-2.jpg"
                                         data-src="https://charge-backer.ru/wp-content/uploads/2020/01/6-2.jpg"
                                         alt="" data-was-processed="true"></a>
                             <div class="divvideootziv" align="center"><a class="videootziv" act="link"
-                                                                         href="1.9_chargeback_reviews.php"
+                                                                         href="1.10_chargeback_reviews.php"
                                                                          target="_blank" style="">Смотреть
                                     отзывы</a>
                             </div>

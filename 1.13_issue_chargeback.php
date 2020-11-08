@@ -137,7 +137,7 @@
 
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">ШАГ 6 Форма банка</h3>
     Большинство банков требует заполнение специальной формы обращения. Ознакомиться с ними можно по <a
-            href="1.6_fraud_chargeback.php">ссылке.</a>
+            href="1.7_fraud_chargeback.php">ссылке.</a>
     <br/><br/><br/>
 
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">ШАГ 7 Подача заявления в банк</h3>

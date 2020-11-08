@@ -87,6 +87,8 @@
             </div>
         </div>
     </div>
+    <br/>
+    <br/>
 </div>
 
 <? include_once 'footer2.php' ?>

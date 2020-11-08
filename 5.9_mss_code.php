@@ -298,7 +298,7 @@
     <br/>
     <br/>
     <p class="zagolovok_h2">
-        <b>Будьте бдительны!</b>
+        <strong>Будьте бдительны!</strong>
     </p>
 </div>
 

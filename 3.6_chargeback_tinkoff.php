@@ -144,7 +144,7 @@
                                      data-was-processed="true">
                             </a>
                             <div class="divvideootziv"><a class="videootziv" act="link"
-                                                          href="1.9_chargeback_reviews.php"
+                                                          href="1.10_chargeback_reviews.php"
                                                           target="_blank" style="">Смотреть отзывы</a></div>
                         </div>
                         <div class="caption row-fluid" style="margin-top: -20px">

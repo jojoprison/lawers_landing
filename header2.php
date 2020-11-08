@@ -57,17 +57,18 @@
                 <a href="#1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">1. Чарджбэк</a>
                 <ul class="collapse list-unstyled" id="1">
                     <li><a href="baza.php">1.1 Что такое чарджбэк?</a></li>
-                    <li><a href="1.2_chargeback_codes.php">1.2 Коды чарджбэк</a></li>
-                    <li><a href="1.3_how_make_chargeback.php">1.3 Как сделать чарджбэк?</a></li>
-                    <li><a href="1.4_chargeback_statement.php">1.4 Заявление на чарджбэк</a></li>
-                    <li><a href="1.5_probability_of_success.php">1.5 Вероятность успеха.</a></li>
-                    <li><a href="1.6_fraud_chargeback.php">1.6 Чарджбэк по мошенничеству</a></li>
-                    <li><a href="1.7_cost_chargeback.php">1.7 Стоимость чарджбэк</a></li>
-                    <li><a href="1.8_chargeback_selection.php">1.8 Как выбрать Компанию на чарджбэк?</a></li>
-                    <li><a href="1.9_chargeback_reviews.php">1.9 Чарджбэк отзывы</a></li>
-                    <li><a href="1.10_chargeback_without_prepayment.php">1.10 Чарджбэк без предоплаты</a></li>
-                    <li><a href="1.11_chargeback_Aliexpress.php">1.11 Чарджбэк с Алиэкспресс</a></li>
-                    <li><a href="1.12_issue_chargeback.php">1.12 Как оформить чарджбэк?</a></li>
+                    <li><a href="1.2_chargeback_timing.php">1.2 Сроки чарджбэк</a></li>
+                    <li><a href="1.3_chargeback_codes.php">1.2 Коды чарджбэк</a></li>
+                    <li><a href="1.4_how_make_chargeback.php">1.3 Как сделать чарджбэк?</a></li>
+                    <li><a href="1.5_chargeback_statement.php">1.4 Заявление на чарджбэк</a></li>
+                    <li><a href="1.6_probability_of_success.php">1.5 Вероятность успеха.</a></li>
+                    <li><a href="1.7_fraud_chargeback.php">1.6 Чарджбэк по мошенничеству</a></li>
+                    <li><a href="1.8_cost_chargeback.php">1.7 Стоимость чарджбэк</a></li>
+                    <li><a href="1.9_chargeback_selection.php">1.8 Как выбрать Компанию на чарджбэк?</a></li>
+                    <li><a href="1.10_chargeback_reviews.php">1.9 Чарджбэк отзывы</a></li>
+                    <li><a href="1.11_chargeback_without_prepayment.php">1.10 Чарджбэк без предоплаты</a></li>
+                    <li><a href="1.12_chargeback_aliexpress.php">1.11 Чарджбэк с Алиэкспресс</a></li>
+                    <li><a href="1.13_issue_chargeback.php">1.12 Как оформить чарджбэк?</a></li>
                 </ul>
             </li>
 
@@ -115,12 +116,12 @@
             <li>
                 <a href="#5" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">5. Прочее</a>
                 <ul class="collapse list-unstyled" id="5">
-                    <li><a href="5.1_FAQ">5.1 Частые вопросы</a></li>
+                    <li><a href="5.1_FAQ.php">5.1 Частые вопросы</a></li>
                     <li><a href="5.2_how_not_twice.php">5.2 Как не попасть дважды</a></li>
                     <li><a href="5.3_anydesk.php">5.3 AnyDesk(АниДеск) – что это такое?</a></li>
                     <li><a href="5.4_internet_fraud.php">5.4 Мошенничество в интернете</a></li>
                     <li><a href="5.5_cheating_pensioners.php">5.5 Обман пенсионеров</a></li>
-                    <li><a href="5.6_earnings_in_Internet.php">5.6 Заработок в интернете</a></li>
+                    <li><a href="5.6_earnings_in_internet.php">5.6 Заработок в интернете</a></li>
                     <li><a href="5.7_individual_bankruptcy.php">5.7 Банкротство физ. лиц</a></li>
                     <li><a href="5.8_aviation_ticket_refund.php">5.8 Возврат денег за авиабилет</a></li>
                     <li><a href="5.9_mss_code.php">5.9 Что такое МСС код? Всё о МСС!</a></li>

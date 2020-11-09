@@ -127,7 +127,6 @@
                     <li><a href="5.9_mss_code.php">5.9 Что такое МСС код? Всё о МСС!</a></li>
                     <li><a href="5.10_chargeback_trip.php">5.10 Как вернуть деньги за путевку</a></li>
                     <li><a href="5.11_lost_investment.php">5.11 Потерял инвестиции</a></li>
-                    <li><a href="5.12_glossary_of_terms.php">5.12 Словарь терминов</a></li>
                 </ul>
             </li>
     </nav>

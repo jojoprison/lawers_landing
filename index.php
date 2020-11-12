@@ -44,6 +44,51 @@
         </div>
       </nav>
 
+<!-- MODAL-->
+
+<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Мы обязтельно перезвоним</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+
+      <form action="add_client.php" method="POST">
+    <div class="form-group">
+        <label for="name">Ваше имя</label>
+        <input type="text" class="form-control" id="name" name="name"
+               placeholder="Иван Иванов" required>
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Номер телефона</label>
+        <input type="tel" class="form-control" id="phone" name="phone"
+               placeholder="+7 (495) 755 69 83" required>
+    </div>
+
+    <div style="color:rgb(128, 119, 119);font-size: 13px;">
+        Нажимая на кнопку, я согласен(а) с условиями
+        <br/>
+        <a href="#" style="text-decoration: none; color:rgb(61, 59, 59); font-size: 10px;">
+            Пользовательского соглашения, Клиентского соглашения и Terms and Conditions
+        </a>
+    </div>
+    <br/>
+    <button type="submit" class="btn btn-primary btn-lg btn-block">Обратиться</button>
+</form>
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<!-- MODAL-->
+
 <!--БЛОК1-->
 
       <div class="blok1">
@@ -58,7 +103,7 @@
               <h5>Юридическая помощь по возврату </br> денежных средств от любых брокеров</h5>
               <img src="visa.png" width="60%" alt="" >
               <br>
-              <a class="obrat" href="#" >Обратиться</a>
+              <a class="obrat" href="#" data-toggle="modal" data-target="#exampleModal" >Обратиться</a>
             </div>
           </div>
         </div>
@@ -87,7 +132,6 @@
 </div>
 <!--БЛОК 2-->
 
-
 <!--БЛОК 3-->
 <div data-aos="fade-right"
      data-aos-offset="200"
@@ -101,7 +145,7 @@
               </br>
               <p>Официальная регистрация гарантирует строгое соблюдение требований законов РФ.
               Готовим документацию для банков, взаимодействуем с контролирующими органами, занимаемся поиском платежей.</p></br>
-              <a class="obrat" href="#" >Обратиться</a>
+              <a class="obrat" href="#" data-toggle="modal" data-target="#exampleModal" >Обратиться</a>
               </br></br>
             </div>
             <div class="col">
@@ -201,7 +245,7 @@ data-aos-anchor-placement="top-bottom" >
               свяжестся освободившийся эксперт первичной оценки.</li>
             </ul>
               <div class="center">
-                <a class="obrat" href="#" style="width: 200px;">Оставить заявку</a>
+              <a class="obrat" href="#" data-toggle="modal" data-target="#exampleModal" >Обратиться</a>
               </div>
           </div>
         </div>
@@ -478,7 +522,7 @@ data-aos-anchor-placement="top-bottom" >
 
         </div>
         <div class="col-sm" style="margin-left: 3rem;">
-          <div class="button btn btn-danger">Обратный звонок</div>  <br/>
+          <div class="button btn btn-danger" data-toggle="modal" data-target="#exampleModal">Обратный звонок</div>  <br/>
           <p style="margin-top: 0.4rem;">
           Горячая линия: ********<br/>
            Email: expertpravo24@yandex.ru<br/>
@@ -497,7 +541,16 @@ data-aos-anchor-placement="top-bottom" >
   </div>
   </footer>
 <!--FOOTER-->
+
+
+
+
 </body>
+<script>
+$('#myModal').on('shown.bs.modal', function () {
+  $('#myInput').trigger('focus')
+})
+</script>
 
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>

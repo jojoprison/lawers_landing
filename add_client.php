@@ -7,7 +7,7 @@ try {
     $client = $conn->prepare($query);
     $client->execute(['name' => $_POST['name'], 'phone' => $_POST['phone']]);
 
-    header("Location: index.php");
+    header("Location: redirect.php");
 }
 catch (PDOException $e) {
     echo "error";

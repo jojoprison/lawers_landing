@@ -23,7 +23,7 @@
 
                 </div>
                 <div class="col-sm" style="margin-left: 3rem; font-size:12px;">
-                    <div class="button btn btn-danger">Обратный звонок</div>
+                    <div class="button btn btn-danger" data-toggle="modal" data-target="#exampleModal">Обратный звонок</div>
                     <br/>
                     <p style="margin-top: 0.4rem;">
                         Горячая линия: ********<br/>

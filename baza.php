@@ -366,4 +366,6 @@
     недосягаемы. Прокуратура и Суд РФ им не страшны.
 </div>
 
+<?php include_once 'form_baza.php'; ?>
+
 <?php include_once 'footer2.php'; ?>

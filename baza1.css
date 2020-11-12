@@ -166,9 +166,16 @@ a.article:hover {
     #sidebarCollapse span {
         display: none;
     }
+    .md{
+        width: 300px;
+    }
 }
 
 .responsive {
     width: 100%;
     height: auto;
+}
+
+.md{
+    width: auto;
 }

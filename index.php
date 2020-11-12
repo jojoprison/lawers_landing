@@ -3,11 +3,11 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>ExpertPravo</title> 
-        <link href="style3.css" rel="stylesheet" type="text/css"/>      
-        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"> 
+        <title>ExpertPravo</title>
+        <link href="style3.css" rel="stylesheet" type="text/css"/>
+        <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-        <link href='https://fonts.googleapis.com/css?family=Raleway:400,700,500' rel='stylesheet' type='text/css'>  
+        <link href='https://fonts.googleapis.com/css?family=Raleway:400,700,500' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
@@ -23,12 +23,12 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
-      
+
         <div class="collapse navbar-collapse text-nav" id="navbarTogglerDemo02">
 
           <ul class="navbar-nav ml-auto mt-2 mt-lg-0" style="margin-right:3%;  font-family: 'Roboto Slab', serif;">
             <li class="nav-item active">
-              <a class="nav-link" href="index.html">Главная<span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.php">Главная<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="tartifs.html">Тарифы</a>
@@ -73,26 +73,15 @@
     Получите <b style="color:#0069D9">бесплатно</b> правовую оценку Вашего случая и<br/>
       узнайте как наказать брокера и вернуть Ваши деньги прямо сейчас</h3><br/><br/>
 
-      <form>
-        <div class="form-row">
-          <div class="col">
-            <input type="text" class="form-control" placeholder="Введите Ваше Имя" style="border:1.5px solid red;"   required >
-          </div>
-          <div class="col">
-            <input type="tel" name="phone" id="phone" class="form-control bfh-phone" style="border:1.5px solid red;" placeholder="+7 (495) 755 69 83" required>
-          </div>
-          <div class="col">
-            <button type="submit" class="btn btn-primary btn-m btn-block" 
-            style="width: 330px; height: 40px; text-align: center;"><b>Получить бесплатную консультацию</b> </button>
-          </div>
-        </div>
-      </form></br>
+      <?php include_once 'form_row.php' ?>
+
+        </br>
       <div class="center" style="color:rgb(128, 119, 119);font-size: 13px;" >
         Нажимая на кнопку, я соглашаюсь с условиями<a href="#" style="text-decoration: none;; font-size: 13px;">
-         Пользовательского соглашения, Клиентского соглашения и Terms and Conditions</a> 
+         Пользовательского соглашения, Клиентского соглашения и Terms and Conditions</a>
      </br></br>
    </div>
-      
+
     </div>
   </div>
 </div>
@@ -117,12 +106,12 @@
             </div>
             <div class="col">
               <img src="doki.png" width="130%" alt="" style=" margin-left: -20%; ">
-            </div> 
+            </div>
           </div>
         </div>
       </div>
     </div>
-<!--БЛОК 3--> 
+<!--БЛОК 3-->
 
 
 <!--БЛОК 4-->
@@ -130,7 +119,7 @@
 data-aos-anchor-placement="top-bottom" >
 
   <div class="block3">
-    
+
       <h4 class="center" >Не уверены, что ваши деньги можно вернуть?<br/> Для возврата денег через банк важны только 3 условия:</h4>
       <div class="container1">
       <div class="item" data-aos="fade-in">
@@ -144,7 +133,7 @@ data-aos-anchor-placement="top-bottom" >
           alt=""></div><br/>
        <div class="col">С момента транзакции<br/>не прошло 540 дней</div>
       </div>
-      
+
       <div class="item" data-aos="fade-in">
         <div class="col"><img src="https://thumb.tildacdn.com/tild3762-3731-4239-b131-326235393064/-/resize/100x/-/format/webp/12.png"
           alt=""></div><br/>
@@ -155,7 +144,7 @@ data-aos-anchor-placement="top-bottom" >
   </div>
 
 </div>
-<!--БЛОК 4--> 
+<!--БЛОК 4-->
 
 
 <!--БЛОК 5-->
@@ -168,7 +157,7 @@ data-aos-anchor-placement="top-bottom" >
   <!--ФОН ГЕРБ-->
 
   <!--Наложенный поверх герба блок-->
-    <div data-aos="zoom-in" data-aos-offset="300" data-aos-easing="ease-in-sine"> 
+    <div data-aos="zoom-in" data-aos-offset="300" data-aos-easing="ease-in-sine">
       <div class="container" >
         <div class="slugi" style="position: relative; ">
           <h2 class="center shrift" >Что мы делаем?</h2>
@@ -186,7 +175,7 @@ data-aos-anchor-placement="top-bottom" >
     </div>
   <!--Наложенный поверх герба блок-->
 
-<!--БЛОК 5--> 
+<!--БЛОК 5-->
 
 
 
@@ -210,7 +199,7 @@ data-aos-anchor-placement="top-bottom" >
               <li>Юрлицо: онлайн-магазин, авиакомпания или любой другой поставщик услуг и товаров;</li>
               <li>Чтобы воспользоваться чарджбэком и отменить определенную транзакцию обратитесь за бесплатной консультацией и с вами
               свяжестся освободившийся эксперт первичной оценки.</li>
-            </ul>   
+            </ul>
               <div class="center">
                 <a class="obrat" href="#" style="width: 200px;">Оставить заявку</a>
               </div>
@@ -218,14 +207,14 @@ data-aos-anchor-placement="top-bottom" >
         </div>
         <br/><br/>
     </div>
-    
+
   </div>
 
 </div><br/>
-<!--БЛОК 6--> 
+<!--БЛОК 6-->
 
 
-<!--БЛОК 7--> 
+<!--БЛОК 7-->
 <div data-aos="fade-right" data-aos-offset="350" data-aos-easing="ease-in-sine">
 
   <div class="container">
@@ -234,13 +223,13 @@ data-aos-anchor-placement="top-bottom" >
         <img  style="text-align:center;" src="banki.png" width="100%" alt="">
     </div>
   </div>
-  
+
 </div>
 
 <br/><br/>
 <!--БЛОК 7-->
 
-<!--БЛОК 8--> 
+<!--БЛОК 8-->
 <div data-aos="fade-up" data-aos-duration="1000" data-aos-easing="ease-in-sine">
   <div class="blok7" style="background-color: #EAF1FC;">
     <br/><br/>
@@ -267,10 +256,10 @@ data-aos-anchor-placement="top-bottom" >
     </div>
   </div>
 </div><br/><br/><br/><br/>
-<!--БЛОК 8--> 
+<!--БЛОК 8-->
 
 
-<!--БЛОК 9--> 
+<!--БЛОК 9-->
 <div data-aos="fade-in" data-aos-offset="350" data-aos-easing="ease-in-sine">
 <div class="blok8" >
   <div class="container" style="background-color: transparent;"></br>
@@ -281,22 +270,22 @@ data-aos-anchor-placement="top-bottom" >
               <div class="icon"></div>
               <div class="title">Как мы возвращаем деньги?</div>
           </a>
-  
+
           <div class="content">
               <p>
-                Мы используем банковскую операцию под названием ChargeBack.Это банковская операция, 
-                на отмену платежа.В том случае, если торговая точка (продавец/брокер) не исполняет обязательства либо, 
+                Мы используем банковскую операцию под названием ChargeBack.Это банковская операция,
+                на отмену платежа.В том случае, если торговая точка (продавец/брокер) не исполняет обязательства либо,
                 нарушает пункты договорных обязательств.
               </p>
           </div>
       </div>
-  
+
       <div class="accordion-item">
           <a href="#" class="heading">
               <div class="icon"></div>
               <div class="title">Куда поступают возвращенные деньги?</div>
           </a>
-  
+
           <div class="content">
               <p>
                 Возвращенные деньги поступают на карту держателя, так как процесс оспаривания производится
@@ -304,29 +293,29 @@ data-aos-anchor-placement="top-bottom" >
               </p>
           </div>
       </div>
-  
+
       <div class="accordion-item">
           <a href="#" class="heading">
               <div class="icon"></div>
               <div class="title">Сколько длится процесс возврата?</div>
           </a>
-  
+
           <div class="content">
               <p>
-                Все ситуации индивидуальны и скорость возврата определяет множества факторов, способ перевода, 
+                Все ситуации индивидуальны и скорость возврата определяет множества факторов, способ перевода,
                 прошедший срок с момента операции, объем оснований на отмену операции, наличие необходимых документов,
                  место регистрации брокеров и т.д. В лучшем из сценариев возврата можно добиться от 15 до 30 суток.
                   В худшем случае процесс может затянуться до 90-120 суток.
               </p>
           </div>
       </div>
-  
+
       <div class="accordion-item">
           <a href="#" class="heading">
               <div class="icon"></div>
               <div class="title">Можно ли вернуть средства,переведенные через кошелек?</div>
           </a>
-  
+
           <div class="content">
               <p>
                 Возврат средств переведенных через электронные кошельки более сложный.
@@ -334,7 +323,7 @@ data-aos-anchor-placement="top-bottom" >
           </div>
       </div>
 
-    
+
   <div class="accordion-item">
     <a href="#" class="heading">
         <div class="icon"></div>
@@ -391,7 +380,7 @@ data-aos-anchor-placement="top-bottom" >
       <p>
         Подтверждение перевода распространенная практика, при переводе в брокерскую компанию,
          так как зачастую средства переводятся за границу и банк с целью безопасности запрашивает личное подтверждение.
-          Но наличие подтверждения не отменяет договорные обязательства которые должен перед Вами выполнить продавец, 
+          Но наличие подтверждения не отменяет договорные обязательства которые должен перед Вами выполнить продавец,
         за не выполнение он так же несет ответственность перед покупателем.
       </p>
   </div>
@@ -407,8 +396,8 @@ data-aos-anchor-placement="top-bottom" >
 <div class="content">
     <p>
       Чаще всего предлог вывода средств, это крючок ,на который рискует попасться клиент.
-      Услышав такую фразу, клиент готов выполнить все требования злоумышленников, но могут 
-      сделать только хуже.По правилам большинства компаний Вы можете беспрепятственно вывести 
+      Услышав такую фразу, клиент готов выполнить все требования злоумышленников, но могут
+      сделать только хуже.По правилам большинства компаний Вы можете беспрепятственно вывести
       свои средства подав заявку на вывод в личном кабинете.
     </p>
 </div>
@@ -432,7 +421,7 @@ data-aos-anchor-placement="top-bottom" >
 
 
 
-  </div> 
+  </div>
 </div>
 </div>
 
@@ -444,7 +433,7 @@ data-aos-anchor-placement="top-bottom" >
 <div class="blok10">
   <div class="container effect7" style="background-color: #EAF1FC; border-radius: 15px;">
     <div class="row ">
-      <div class="col">  
+      <div class="col">
         <br/><br/><img src="baba2.png" width="80%" style="background-size: cover;" alt="">
       </div>
 
@@ -452,24 +441,7 @@ data-aos-anchor-placement="top-bottom" >
         <h2 class="shrift" style="text-align: center;">Остались вопросы?</h2>
         <b><p class="center">Закажите звонок и получите бесплатную консультацию!</p></b><br>
 
-        <form>
-          <div class="form-group">
-            <label for="formGroupExampleInput">Ваше имя</label>
-            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Иван Иванов" required>
-          </div>
-
-          <div class="form-group">
-            <label for="formGroupExampleInput">Номер телефона</label>
-            <input type="text" class="form-control" id="formGroupExampleInput" placeholder="+7 (495) 755 69 83" required>
-          </div>
-          
-          <div style="color:rgb(128, 119, 119);font-size: 13px;" >
-           Нажимая на кнопку, я согласен(а) с условиями</br><a href="#" style="text-decoration: none; color:rgb(61, 59, 59); font-size: 10px;">
-            Пользовательского соглашения, Клиентского соглашения и Terms and Conditions</a> 
-        </br></br>
-      </div>
-          <button type="submit" class="btn btn-primary btn-lg btn-block">Обратиться</button>
-        </form>
+          <?php include_once 'form.php' ?>
 
       </div>
     </div>
@@ -484,7 +456,7 @@ data-aos-anchor-placement="top-bottom" >
    <!--FOOTER-->
   <footer class="navbar-fixed-bottom" style="background-color:#EAF1FC; height: auto">
   <div id="sticky-footer" class="py-4 text-dark-50" style="background-color: #f5f5f5">
-    
+
     <div class="container" >
       <div class="row">
         <div class="col-sm center" >
@@ -495,23 +467,23 @@ data-aos-anchor-placement="top-bottom" >
             <Li><a href="about.html" style="color:black;padding-right: 1rem;"> Контакты   </a> </Li>
           </ul>
         </div>
-        <div class="col-sm center">   
-          <p style="font-size:14px;" >Халеминец Дмитрий Сергеевич 
+        <div class="col-sm center">
+          <p style="font-size:14px;" >Халеминец Дмитрий Сергеевич
             ИНН: 742406352530
             Адрес: 620025, Россия, Свердловская обл, г. Екатеринбург, ул. Бахчиванджи, д. в/ч б-25
             р/с 40802810500001385230
             АО "ТИНЬКОФФ БАНК" г. Москва
             БИК 044525974
             к/с 30101810145250000974</p>
-          
+
         </div>
         <div class="col-sm" style="margin-left: 3rem;">
-          <div class="button btn btn-danger">Обратный звонок</div>  <br/> 
+          <div class="button btn btn-danger">Обратный звонок</div>  <br/>
           <p style="margin-top: 0.4rem;">
-          Горячая линия: ********<br/>   
-           Email: expertpravo24@yandex.ru<br/>   
-           Режим работы 24/7<br/>   
-          </p>   
+          Горячая линия: ********<br/>
+           Email: expertpravo24@yandex.ru<br/>
+           Режим работы 24/7<br/>
+          </p>
         </div>
       </div>
     </div>

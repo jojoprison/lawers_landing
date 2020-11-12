@@ -7,7 +7,7 @@
                 <div class="col-sm center">
                     <img src="logo.png" width="30%" alt="">
                     <ul style="list-style-type:none; display: flex; ">
-                        <Li><a href="index.html" style="color:black;padding-right: 1rem;"> Главная </a></Li>
+                        <Li><a href="index.php" style="color:black;padding-right: 1rem;"> Главная </a></Li>
                         <Li><a href="tartifs.html" style="color:black;padding-right: 1rem;"> Тарифы </a></Li>
                         <Li><a href="about.html" style="color:black;padding-right: 1rem;"> Контакты </a></Li>
                     </ul>

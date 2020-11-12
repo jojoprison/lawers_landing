@@ -152,7 +152,7 @@
                     <ul class="navbar-nav ml-auto mt-2 mt-lg-0"
                         style="margin-right:3%;  font-family: 'Roboto Slab', serif;">
                         <li class="nav-item ">
-                            <a class="nav-link" href="index.html">Главная<span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.php">Главная<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="tartifs.html">Тарифы</a>

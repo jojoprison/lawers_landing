@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Чарджбэк отзывы
@@ -6,11 +6,6 @@
 <br/>
 
 <div class="container proba">
-    ВИДОСЫ
-    <!-- TODO видосы с отзывами (там Эгидовские) -->
-    <br/>
-    <br/>
-
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">
         Примеры возврата от брокеров. Выписки
     </h3>
@@ -437,4 +432,6 @@
 
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

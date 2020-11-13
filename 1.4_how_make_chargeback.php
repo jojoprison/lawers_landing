@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 <h2 class="zagolovok_h2">
     Как сделать чарджбэк? Полная база знаний.
 </h2>
@@ -95,4 +95,6 @@
     </div>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

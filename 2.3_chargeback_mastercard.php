@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Чарджбэк MasterCard
@@ -150,7 +150,7 @@
                                     сумма возвращена клиенту на счет.</p>
                                 <div style="text-align: left; padding-top: 0px; font-size: 18px; font-family: roboto; font-style: normal; font-weight: 500;">
                                                 <span><a class="wpg-linkify wpg-tooltip tooltipstered"
-                                                         href="4.5_brokers.php">Брокер</a>: Maximarkets</span>&nbsp;
+                                                         href="4.4_brokers.php">Брокер</a>: Maximarkets</span>&nbsp;
                                     <span>Сумма: 100 000 р</span>&nbsp; <span>Срок: 2 месяца</span></div>
                             </div>
                         </div>
@@ -163,4 +163,6 @@
 
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

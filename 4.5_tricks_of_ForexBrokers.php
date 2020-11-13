@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     10 уловок Форекс Брокеров
@@ -55,7 +55,6 @@
     </div>
     <br/>
     <br/>
-    <!-- TODO гифка с монетками -->
 
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">
         2: «Не спешите выводить деньги! Сегодня-завтра — крупная сделка, с которой Вы
@@ -209,4 +208,6 @@
     <br/>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Коды чарджбэк
@@ -94,7 +94,6 @@
     2. Chargeback Guide от 13 December 2018.
     <br/>
     <br/>
-    <!--                TODO ВСТАВИТЬ ГИФКУ-->
     Рекомендуемый код для возврата денежных средств: Interregional Message Reason Code 4855—Goods or
     Services Not Delivered (товары или услуги не поставляются) стр. 316.
     <br/>
@@ -107,4 +106,6 @@
     <br/>
 </div>
 
-<?php include_once 'footer2.php'; ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

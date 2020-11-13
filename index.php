@@ -34,7 +34,7 @@
               <a class="nav-link" href="tartifs.html">Тарифы</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="baza.php">База знаний</a>
+                <a class="nav-link" href="1.1_chargeback_what_is.php">База знаний</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.html">Контакты</a>
@@ -118,7 +118,7 @@
     Получите <b style="color:#0069D9">бесплатно</b> правовую оценку Вашего случая и<br/>
       узнайте как наказать брокера и вернуть Ваши деньги прямо сейчас</h3><br/><br/>
 
-      <?php include_once 'form_row.php' ?>
+      <?php include_once 'form_index_row.php' ?>
 
         </br>
       <div class="center" style="color:rgb(128, 119, 119);font-size: 13px;" >
@@ -485,7 +485,7 @@ data-aos-anchor-placement="top-bottom" >
         <h2 class="shrift" style="text-align: center;">Остались вопросы?</h2>
         <b><p class="center">Закажите звонок и получите бесплатную консультацию!</p></b><br>
 
-          <?php include_once 'form.php' ?>
+          <?php include_once 'form_index_col.php' ?>
 
       </div>
     </div>

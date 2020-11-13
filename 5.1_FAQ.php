@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Чарджбэк-помощь. Ответы на частые вопросы.
@@ -13,7 +13,7 @@
     <br/>
     <strong>У МЕНЯ ПРОИЗВЕДЕНА ЗАМЕНА КАРТЫ ПО ИСТЕЧЕНИЮ СРОКА/БЛОКИРОВКИ. КАК БЫТЬ?</strong>
     <br/>
-    В данном случае оспаривание по процедуре <a href="/baza.php" target="_blank" rel="noopener">чарджбэк&nbsp;(chargeback)</a>
+    В данном случае оспаривание по процедуре <a href="/1.1_chargeback_what_is.php" target="_blank" rel="noopener">чарджбэк&nbsp;(chargeback)</a>
     возможно, т.к. поправка происходит по расчетному счету, который был привязан к банковской карте.
     <br/>
     <br/>
@@ -91,4 +91,6 @@
     <br/>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

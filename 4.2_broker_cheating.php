@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Обманул брокер или как вернуть деньги?
@@ -160,7 +160,17 @@
     <p class="zagolovok_h2">
         <b>Фильм о том, как обманывают брокеры:</b>
     </p>
-    <!-- TODO вставить фильм https://youtu.be/PjIM8yo675A -->
+    <br/>
+    <br/>
+    <!-- TODO проверить работает ли фильм фильм с ютуба-->
+    <div style="width:420px;max-width: 100%;margin:5px auto;">
+        <div>
+            <iframe src="https://www.youtube-nocookie.com/embed/PjIM8yo675A?autoplay=0&amp;controls=1&amp;
+                    wmode=opaque&amp;rel=0&amp;egm=0&amp;iv_load_policy=3&amp;hd=0"
+                    style="" allowfullscreen="" allow="" width="400" height="236" frameborder="0">
+            </iframe>
+        </div>
+    </div>
     <br/>
     <br/>
 
@@ -207,4 +217,6 @@
     </div>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

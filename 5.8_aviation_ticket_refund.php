@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Возврат денег за авиабилет
@@ -239,7 +239,7 @@
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">
         Претензия на возврат денег за авиабилеты
     </h3>
-    Мы рекомендуем воспользоваться банковской процедурой <a href="/baza.php" target="_blank">Чарджбэк</a>.
+    Мы рекомендуем воспользоваться банковской процедурой <a href="/1.1_chargeback_what_is.php" target="_blank">Чарджбэк</a>.
     <br/>
     <br/>
     Вам нужно составить претензию в Банк-эмитент, в котором опишите всю ситуацию и приложите все возможные
@@ -304,9 +304,11 @@
         Срок возврата денег за авиабилеты
     </h3>
     Важно не забывать про сроки, они ограничены в каждой платежной системе, поэтому чем быстрей Вы обратитесь в Банк,
-    тем лучше. Про сроки на <a href="/baza.php" target="_blank">чарджбэк</a> вы можете узнать в <a href="/1.2_chargeback_timing.php" target="_blank">этой статье</a>.
+    тем лучше. Про сроки на <a href="/1.1_chargeback_what_is.php" target="_blank">чарджбэк</a> вы можете узнать в <a href="/1.2_chargeback_timing.php" target="_blank">этой статье</a>.
     <br/>
     <br/>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

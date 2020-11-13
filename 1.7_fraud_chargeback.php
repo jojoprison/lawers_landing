@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Чарджбэк по мошенничеству
@@ -32,7 +32,6 @@
     в суд подавать бессмысленно. Поэтому данный вариант нам не подходит.
     <br/>
     <br/>
-    <!--                TODO гифка Визы-->
 
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">
         Мошенничество в Платежной системе VISA
@@ -63,7 +62,6 @@
     находится у владельца.
     <br/>
     <br/>
-    <!--TODO гифка МастерКард-->
 
     <h3 style="color:green;-webkit-text-stroke: 0.2px black">
         Мошенничество в MasterCard
@@ -89,4 +87,6 @@
     <br/>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

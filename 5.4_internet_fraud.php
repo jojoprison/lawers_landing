@@ -1,4 +1,4 @@
-<?php include_once 'header2.php'; ?>
+<?php include_once 'header.php'; ?>
 
 <h2 class="zagolovok_h2">
     Мошенничество в интернете
@@ -119,7 +119,7 @@
     далеко не первый год.
     <br/>
     <br/>
-    Подробнее о брокерах - <a href="/4.5_brokers.php">в этой статье</a>.
+    Подробнее о брокерах - <a href="/4.4_brokers.php">в этой статье</a>.
     <br/>
     <br/>
 
@@ -195,8 +195,8 @@
     свой Банк и просите отменить транзакцию.
     <br/>
     <br/>
-    В некоторых случаях для возврата можно применить <a href="/baza.php" target="_blank">chargeback</a>, что это такое,
-    мы <a href="/baza.php" target="_blank">рассказывали ранее</a>.
+    В некоторых случаях для возврата можно применить <a href="/1.1_chargeback_what_is.php" target="_blank">chargeback</a>, что это такое,
+    мы <a href="/1.1_chargeback_what_is.php" target="_blank">рассказывали ранее</a>.
     <br/>
     <br/>
 
@@ -232,4 +232,6 @@
     <br/>
 </div>
 
-<? include_once 'footer2.php' ?>
+<? include_once 'form_baza.php' ?>
+
+<? include_once 'footer.php' ?>

@@ -56,7 +56,7 @@
             <li>
                 <a href="#1" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">1. Чарджбэк</a>
                 <ul class="collapse list-unstyled" id="1">
-                    <li><a href="baza.php">1.1 Что такое чарджбэк?</a></li>
+                    <li><a href="1.1_chargeback_what_is.php">1.1 Что такое чарджбэк?</a></li>
                     <li><a href="1.2_chargeback_timing.php">1.2 Сроки чарджбэк</a></li>
                     <li><a href="1.3_chargeback_codes.php">1.2 Коды чарджбэк</a></li>
                     <li><a href="1.4_how_make_chargeback.php">1.3 Как сделать чарджбэк?</a></li>
@@ -104,12 +104,11 @@
                 <a href="#4" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">4. Брокеры</a>
                 <ul class="collapse list-unstyled" id="4">
                     <li><a href="4.1_brokers_scammers.php">4.1 Кто такие брокеры мошенники</a></li>
-                    <li><a href="4.2_chargeback_binary_options.php">4.2 Вернуть деньги из бинарных опционов</a></li>
-                    <li><a href="4.3_broker_cheating.php">4.3 Обман брокеров</a></li>
-                    <li><a href="4.4_twin_sites.php">4.4 Сайты близнецы</a></li>
-                    <li><a href="4.5_brokers.php">4.5 Брокеры</a></li>
-                    <li><a href="4.6_tricks_of_ForexBrokers.php">4.6 10 уловок Форекс Брокеров</a></li>
-                    <li><a href="4.7_mirror_transactions.php">4.7 Зеркальные транзакции</a></li>
+                    <li><a href="4.2_broker_cheating.php">4.3 Обман брокеров</a></li>
+                    <li><a href="4.3_twin_sites.php">4.4 Сайты близнецы</a></li>
+                    <li><a href="4.4_brokers.php">4.5 Брокеры</a></li>
+                    <li><a href="4.5_tricks_of_ForexBrokers.php">4.6 10 уловок Форекс Брокеров</a></li>
+                    <li><a href="4.6_mirror_transactions.php">4.7 Зеркальные транзакции</a></li>
                 </ul>
             </li>
 
@@ -158,7 +157,7 @@
                             <a class="nav-link" href="tartifs.html">Тарифы</a>
                         </li>
                         <li class="nav-item active">
-                            <a class="nav-link" href="baza.php">База знаний</a>
+                            <a class="nav-link" href="1.1_chargeback_what_is.php">База знаний</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="about.html">Контакты</a>
